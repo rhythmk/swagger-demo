@@ -1,0 +1,5 @@
+.idea
+# air缓存目录
+/tmp
+/vendor
+.vscode
